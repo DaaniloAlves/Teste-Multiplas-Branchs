@@ -1,1 +1,2 @@
-Merge
+Teste
+Mudando o conteudo do txt para testar funcionalidade das branchs e merge
